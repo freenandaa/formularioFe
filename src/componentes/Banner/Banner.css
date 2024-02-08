@@ -1,0 +1,11 @@
+.banner {
+    text-align: left;
+    padding: 2%;
+    margin-top: 5px;
+    margin-left: 2.5%;
+}
+
+.banner img{
+    max-width:15%;
+    min-width: 75px;
+}

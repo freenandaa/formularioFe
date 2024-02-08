@@ -1,0 +1,17 @@
+.lista-radio > div {
+    display: flex;
+    flex-direction: row;
+}
+
+.lista-radio > div > label {
+    margin: 8px 10px;
+}
+
+.lista-radio input {
+    float: left;
+    background-color: #FFF;
+    border: none;
+    font-size: 24px;
+    box-shadow: none !important;
+    width: 20px !important;
+}

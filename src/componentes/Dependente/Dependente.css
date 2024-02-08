@@ -1,0 +1,35 @@
+.Dependente > div {
+    display: flex;
+    flex-direction: row;
+    float: left;
+}
+
+.Dependente > div > div > label {
+    margin: 16px 10px;
+}
+
+.Dependente input[type="number"] {
+    width: 130px !important;    
+}
+
+.Dependente input[type="radio"] {
+    box-shadow: none !important;
+    width: 20px !important;   
+}    
+
+.container {
+    display: block !important;
+    align-items: center;
+}
+
+.opcoes {
+    display: flex;
+    flex-direction: row;
+    float: left;  
+}
+
+.bloco {
+    display: block !important;
+    float: none;
+    margin-right: 50px;
+}
